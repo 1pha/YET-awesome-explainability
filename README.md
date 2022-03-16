@@ -27,4 +27,9 @@ Full taxonomy by Manolis Kellis and lots of models fall into mainly two categori
 
 + GCPR 2017 Tutorial: **Interpretable Machine Learning** by Wojciech Samek & Klaus-Robert Muller [PDF](http://www.heatmapping.org/slides/2017_GCPR.pdf)
 
-+ ICASSP 2017 Tutorial: **Methods for Interpreting and Understanding Deep Neural Networks** Wojciech Samek, Gregoire Montavon and Klaus-Robert Muller (No pdf/video found) [ICASSP2017 Tutorials](http://www.ieee-icassp2017.org/tutorials.html)
++ ICASSP 2017 Tutorial: **Methods for Interpreting and Understanding Deep Neural Networks** Wojciech Samek, Gregoire Montavon and Klaus-Robert Muller (No pdf/video found) [ICASSP2017 Tutorials](http://www.ieee-icassp2017.org/tutorials.html) [Tutorial Paper](https://www.sciencedirect.com/science/article/pii/S1051200417302385?via%3Dihub)
+
++ cs231n Lecture 12: Visualizing and Understanding [Video](https://www.youtube.com/watch?v=6wcs6szJWMY) [PDF](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture12.pdf)
+
+## Codes
+Just use captum [Documentation](https://captum.ai/api/index.html) [Git Repo](https://github.com/pytorch/captum)
