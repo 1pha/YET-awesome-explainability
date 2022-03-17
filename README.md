@@ -9,6 +9,10 @@ Full taxonomy by Manolis Kellis and lots of models fall into mainly two categori
 
 ## Papers
 
++ Model-Agnostic
+    + **LIME** Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. "" Why should i trust you?" Explaining the predictions of any classifier." Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining. 2016. [Paper](https://arxiv.org/pdf/1602.04938.pdf)
+    + **SHAP** Lundberg, Scott M., and Su-In Lee. "A unified approach to interpreting model predictions." Advances in neural information processing systems 30 (2017). [Paper](https://arxiv.org/pdf/1705.07874.pdf)
+
 + Relevance Propagation
     + Bach, Sebastian, et al. "**On pixel-wise explanations for non-linear classifier decisions by layer-wise relevance propagation.**" PloS one 10.7 (2015): e0130140. [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140)
     + Montavon, Grégoire, et al. "**Explaining nonlinear classification decisions with deep taylor decomposition.**" Pattern recognition 65 (2017): 211-222. [Paper](https://www.sciencedirect.com/science/article/pii/S0031320316303582) [Nice PDF](https://idea-stat.snu.ac.kr/seminar/20161203/DTD.pdf)
