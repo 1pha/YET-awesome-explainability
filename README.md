@@ -24,20 +24,23 @@ Full taxonomy by Manolis Kellis and lots of models fall into mainly two categori
 
 + Relevance Propagation
     + Bach, Sebastian, et al. "**On pixel-wise explanations for non-linear classifier decisions by layer-wise relevance propagation.**" PloS one 10.7 (2015): e0130140. [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140)
+    + Samek, Wojciech, et al. "**Evaluating the visualization of what a deep neural network has learned.**" IEEE transactions on neural networks and learning systems 28.11 (2016): 2660-2673. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7552539)
     + Montavon, Grégoire, et al. "**Explaining nonlinear classification decisions with deep taylor decomposition.**" Pattern recognition 65 (2017): 211-222. [Paper](https://www.sciencedirect.com/science/article/pii/S0031320316303582) [Nice PDF](https://idea-stat.snu.ac.kr/seminar/20161203/DTD.pdf)
     + Montavon, Grégoire, Wojciech Samek, and Klaus-Robert Müller. "**Methods for interpreting and understanding deep neural networks.**" Digital Signal Processing 73 (2018): 1-15. [Paper](https://www.sciencedirect.com/science/article/pii/S1051200417302385?via%3Dihub)
-    + Ancona, Marco, et al. "Towards better understanding of gradient-based attribution methods for deep neural networks." arXiv preprint arXiv:1711.06104 (2017). [Paper](https://openreview.net/pdf?id=Sy21R9JAW)
-    + Montavon, Grégoire, et al. "Layer-wise relevance propagation: an overview." Explainable AI: interpreting, explaining and visualizing deep learning (2019): 193-209. [Paper](http://iphome.hhi.de/samek/pdf/MonXAI19.pdf)
+    + Ancona, Marco, et al. "**Towards better understanding of gradient-based attribution methods for deep neural networks.**" arXiv preprint arXiv:1711.06104 (2017). [Paper](https://openreview.net/pdf?id=Sy21R9JAW)
+    + Montavon, Grégoire, et al. "**Layer-wise relevance propagation: an overview.**" Explainable AI: interpreting, explaining and visualizing deep learning (2019): 193-209. [Paper](http://iphome.hhi.de/samek/pdf/MonXAI19.pdf)
     + Kohlbrenner, Maximilian, et al. "**Towards best practice in explaining neural network decisions with LRP.**" 2020 International Joint Conference on Neural Networks (IJCNN). IEEE, 2020. [Paper](https://arxiv.org/pdf/1910.09840.pdf)
     + Samek, Wojciech, et al. "**Explaining deep neural networks and beyond: A review of methods and applications.**" Proceedings of the IEEE 109.3 (2021): 247-278. [Paper](https://arxiv.org/pdf/2003.07631.pdf)
  
 
     + Nice Tutorial Code [GitLab](https://git.tu-berlin.de/gmontavon/lrp-tutorial)
 
-
 + Transformer / ViT Explanation
     + Chefer, Hila, Shir Gur, and Lior Wolf. "**Transformer interpretability beyond attention visualization.**" Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chefer_Transformer_Interpretability_Beyond_Attention_Visualization_CVPR_2021_paper.pdf)
     + Berglund, Sandor, Francisco Ferrari, and Daniel Morales Brotons. "LRP-based Method for Transformer Interpretability." ML Reproducibility Challenge 2021 Fall Blind Submission [Paper](https://openreview.net/pdf?id=rBHej2zm2AK)
+
++ Survey
+    + Das, Arun, and Paul Rad. "**Opportunities and challenges in explainable artificial intelligence (xai): A survey.**" arXiv preprint arXiv:2006.11371 (2020). [Paper](https://arxiv.org/pdf/2006.11371.pdf)
 
 
 ## Videos/Tutorials/Lectures
@@ -52,7 +55,9 @@ Full taxonomy by Manolis Kellis and lots of models fall into mainly two categori
 + cs231n Lecture 12: Visualizing and Understanding [Video](https://www.youtube.com/watch?v=6wcs6szJWMY) [PDF](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture12.pdf)
 
 ## Codes
-Just use captum [Documentation](https://captum.ai/api/index.html) [Git Repo](https://github.com/pytorch/captum)
++ Just use captum [Documentation](https://captum.ai/api/index.html) [Git Repo](https://github.com/pytorch/captum)
++ Tutorial on LRP [GitLab](https://git.tu-berlin.de/gmontavon/lrp-tutorial)
+    + Based on above [Github](https://github.com/fhvilshoj/TorchLRP)
 
 ## Institutes
 
