@@ -23,12 +23,14 @@ Full taxonomy by Manolis Kellis and lots of models fall into mainly two categori
     + **SHAP** Lundberg, Scott M., and Su-In Lee. "A unified approach to interpreting model predictions." Advances in neural information processing systems 30 (2017). [Paper](https://arxiv.org/pdf/1705.07874.pdf)
 
 + Relevance Propagation
-    + Bach, Sebastian, et al. "**On pixel-wise explanations for non-linear classifier decisions by layer-wise relevance propagation.**" PloS one 10.7 (2015): e0130140. [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140) _$$LRP_{{\alpha}{\beta}}$$_
-    + Montavon, Grégoire, et al. "**Explaining nonlinear classification decisions with deep taylor decomposition.**" Pattern recognition 65 (2017): 211-222. [Paper](https://www.sciencedirect.com/science/article/pii/S0031320316303582) [Nice PDF](https://idea-stat.snu.ac.kr/seminar/20161203/DTD.pdf) _alpha1beta0 rule_
+    + Bach, Sebastian, et al. "**On pixel-wise explanations for non-linear classifier decisions by layer-wise relevance propagation.**" PloS one 10.7 (2015): e0130140. [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140)
+    + Montavon, Grégoire, et al. "**Explaining nonlinear classification decisions with deep taylor decomposition.**" Pattern recognition 65 (2017): 211-222. [Paper](https://www.sciencedirect.com/science/article/pii/S0031320316303582) [Nice PDF](https://idea-stat.snu.ac.kr/seminar/20161203/DTD.pdf)
     + Montavon, Grégoire, Wojciech Samek, and Klaus-Robert Müller. "**Methods for interpreting and understanding deep neural networks.**" Digital Signal Processing 73 (2018): 1-15. [Paper](https://www.sciencedirect.com/science/article/pii/S1051200417302385?via%3Dihub)
     + Ancona, Marco, et al. "Towards better understanding of gradient-based attribution methods for deep neural networks." arXiv preprint arXiv:1711.06104 (2017). [Paper](https://openreview.net/pdf?id=Sy21R9JAW)
+    + Montavon, Grégoire, et al. "Layer-wise relevance propagation: an overview." Explainable AI: interpreting, explaining and visualizing deep learning (2019): 193-209. [Paper](http://iphome.hhi.de/samek/pdf/MonXAI19.pdf)
     + Kohlbrenner, Maximilian, et al. "**Towards best practice in explaining neural network decisions with LRP.**" 2020 International Joint Conference on Neural Networks (IJCNN). IEEE, 2020. [Paper](https://arxiv.org/pdf/1910.09840.pdf)
     + Samek, Wojciech, et al. "**Explaining deep neural networks and beyond: A review of methods and applications.**" Proceedings of the IEEE 109.3 (2021): 247-278. [Paper](https://arxiv.org/pdf/2003.07631.pdf)
+ 
 
     + Nice Tutorial Code [GitLab](https://git.tu-berlin.de/gmontavon/lrp-tutorial)
 
@@ -51,3 +53,7 @@ Full taxonomy by Manolis Kellis and lots of models fall into mainly two categori
 
 ## Codes
 Just use captum [Documentation](https://captum.ai/api/index.html) [Git Repo](https://github.com/pytorch/captum)
+
+## Institutes
+
+Fraunhofer.de [XAI](https://www.hhi.fraunhofer.de/en/departments/ai/research-groups/explainable-artificial-intelligence/publications.html)
